@@ -1,10 +1,5 @@
 # Hi there 👋, my name is **Ryan V Truong** #
 
- - I am a 4th year Psychology Student @ UT Austin who is interested in Computational Neuroscience
-
- - I recently became interested in Computer Science once I began working as a RA at Gorislab 
-
- - Beyond my academic interests, I enjoy playing video games and making others laugh. 
 
     
 
