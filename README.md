@@ -1,4 +1,4 @@
-# Hi there 👋, my name is **Ryan V Truong** #
+# Hi there 👋, my name is **Ryan Truong** #
 
 
     
